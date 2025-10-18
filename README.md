@@ -29,12 +29,6 @@ Built for friendly games, it lets you add players, form teams, and view real-tim
 - scikit-learn, pandas, numpy (model training)
 - Optional: Redis + Celery for background training jobs
 
-**Deployment**
-- Vercel (frontend)
-- Railway / Render (backend)
-- Supabase / Neon (PostgreSQL hosting)
-- GitHub Actions (CI/CD)
-
 ---
 
 ## 🧠 Model Overview
